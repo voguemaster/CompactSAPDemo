@@ -1,5 +1,5 @@
 # CompactSAPDemo
-<h2>An allocation-free implementation of a 2D SAP broadphase proxy in Java</h2>
+<h2>An allocation-free implementation of a 2D SAP broadphase in Java</h2>
 
 This small demo shows production ready code for a sweep and prune algorithm in Java without any object allocations.
 Great for many types of games and works relatively fast (although I bet it isn't the most optimized it can be :-).
